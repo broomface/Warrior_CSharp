@@ -10,6 +10,7 @@ namespace Warrior_CSharp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
